@@ -444,7 +444,7 @@ padding: 0!important;
         if(isset($_POST['entrar'])){
 
 
-          if($_POST['login'] == "a" && $_POST['senha'] == "a"){
+          if($_POST['login'] == "##" && $_POST['senha'] == "###"){
             //Significa que login tá certo!
 
 
